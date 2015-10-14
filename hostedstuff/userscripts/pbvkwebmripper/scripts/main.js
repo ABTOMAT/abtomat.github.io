@@ -27,6 +27,9 @@
 // After jQuery loaded
 
         ripKirillWebms();
+		
+		setInterval(function(){ripKirillWebms();}, 5); // Azazaz kostyl nu da pohui
+
 
     });
 
