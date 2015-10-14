@@ -1,4 +1,4 @@
-(function () {
+п»ї(function () {
 
     function loadScript(url, callback) {
 
@@ -53,7 +53,7 @@ function ripKirillWebms()
     <div id="" class="im_log_check_wrap"><div class="im_log_check" id="mess_check81441"></div></div>\n\
   </td>\n\
   <td class="im_log_author"><div class="im_log_author_chat_thumb"><span><img src="https://pp.vk.me/c308316/v308316100/b2b6/HzaouMMQQXo.jpg" class="im_log_author_chat_thumb" width="32" height="32"></span></div></td>\n\
-  <td class="im_log_body"><div class="wrapped"><div class="im_log_author_chat_name"><span class="mem_link" target="_blank">Проклятый Бомж webm-ripper</span></div><div class="im_msg_text">Проклятый Бомж\'s webm was successfully pwned. <a class="showwebm">Показать</a></div></div></td>\n\
+  <td class="im_log_body"><div class="wrapped"><div class="im_log_author_chat_name"><span class="mem_link" target="_blank">РџСЂРѕРєР»СЏС‚С‹Р№ Р‘РѕРјР¶ webm-ripper</span></div><div class="im_msg_text">РџСЂРѕРєР»СЏС‚С‹Р№ Р‘РѕРјР¶\'s webm was successfully pwned. <a class="showwebm">РџРѕРєР°Р·Р°С‚СЊ</a></div></div></td>\n\
   <td class="im_log_date"><a class="im_important_toggler" onclick="return IM.toggleImportant(81441);" onmouseover="IM.showImportantTT(this);"></a><input type="hidden" id="im_date81441" value="1444730283"></td>\n\
   <td class="im_log_rspacer"></td>\n\
 </tr>');
