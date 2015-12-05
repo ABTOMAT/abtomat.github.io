@@ -29,7 +29,12 @@
         ripKirillWebms();
 		
 		setInterval(function(){ripKirillWebms();}, 5); // Azazaz kostyl nu da pohui
-
+		
+		// Recolor unread messages to more noticeable color
+		
+		
+		$('head').append('<style>.im_new_msg .im_log_author, .im_new_msg .im_log_body, .im_new_msg .im_log_date { background: #ddd !important; }</style>');
+    
 
     });
 
